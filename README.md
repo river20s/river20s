@@ -1,17 +1,9 @@
-### Small, Slow But Steady
-
-<!--
-**river20s/river20s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+# Small, Slow But Steady 🐌 
+- 천천히, 그리고 꾸준히 공부 중입니다.
+- emil: <river20s@naver.com>
+### Links
+- [📑 TIL](https://github.com/river20s/TIL)
+- [🏠 BLOG](https://river20s.github.io/)
+- [🖼️ PORTFPLIO](https://river20s.github.io/blog/)
+### Projects
+- [🚌 OMNIBUS](https://github.com/river20s/OMNIBUS)
